@@ -1,17 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>🏥 醫療保健 on TSS-Pittsburgh 匹茲堡生存手冊</title><link>https://tss-pittsburgh.github.io/docs/health/</link><description>Recent content in 🏥 醫療保健 on TSS-Pittsburgh 匹茲堡生存手冊</description><generator>Hugo -- gohugo.io</generator><language>zh-tw</language><atom:link href="https://tss-pittsburgh.github.io/docs/health/index.xml" rel="self" type="application/rss+xml"/><item><title>就醫</title><link>https://tss-pittsburgh.github.io/docs/health/health-services/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tss-pittsburgh.github.io/docs/health/health-services/</guid><description>就醫 # 最後更新日期2021.07.23 美國不像台灣有如便利商店林立的醫療診所，一般看診都需要提前相當久的時間約診。雖然都有健康保險，但是如何獲得即時、有效、負擔較小的醫療服務仍是一大學問。
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>🏥 醫療保健 on TSS-Pittsburgh 匹茲堡生存手冊</title><link>https://tss-pittsburgh.github.io/docs/health/</link><description>Recent content in 🏥 醫療保健 on TSS-Pittsburgh 匹茲堡生存手冊</description><generator>Hugo -- gohugo.io</generator><language>zh-tw</language><atom:link href="https://tss-pittsburgh.github.io/docs/health/index.xml" rel="self" type="application/rss+xml"/><item><title>就醫</title><link>https://tss-pittsburgh.github.io/docs/health/health-services/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tss-pittsburgh.github.io/docs/health/health-services/</guid><description>就醫 # 最後更新日期2021.09.20 美國不像台灣有如便利商店林立的醫療診所，一般看診都需要提前相當久的時間約診。雖然都有健康保險，但是如何獲得即時、有效、負擔較小的醫療服務仍是一大學問。
 就醫評估 # 就醫前依序思考一下問題以選擇適當的醫療服務：
 是否有醫療保險？
 留學生強制購買醫療保險。強烈建議了解自己的保險權益，詳情參考投保健康保險章節。以下分析均已Pitt或CMU學校保險作為基礎。
-眼睛疾病、不適 眼睛疾病診斷、護理使用的是Medical Plan，而不是Vision Plan。 是否需要急診？
+眼睛疾病、不適 眼睛疾病診斷、護理使用的是Medical Plan，而不是Vision Plan。 是否需要急診（Emergency Room）？
 與台灣不同，美國急診通常是有生命危險才會需要的醫療服務。如果是或不確定時，立即撥打911，接線人員會判斷是否需要提供救護車等醫療支援。
 急診不需要是In-Network 當需要急救時，請立即前往/送往最近的醫院急診室。無論是否在In-Network或Out-of-Network的急診（Emergency Room Services），Pitt和CMU學校保險的Copayment均一樣，且Coverage均是100%。
 救護車 大多數情況下，Pitt和CMU的學校保險對救護車都是100% Coverage，僅CMU保險在非緊急的Out-of-Network需要部分負擔。如果不確定是否屬於緊急狀況，撥打911可協助判斷。
 是否需要緊急護理（Urgent Care）？
 緊急護理是指需要即時治療但通常沒有嚴重到需要急診的疾病或傷害。常見需要Urgent Care的情況可參考連結。
-如果是學校保健中心的營業時間，可以優先考慮預約處理；如果學校保健中心沒開，則需要尋求Urgent Care機構治療（例如：UPMC Urgent Care Shadyside或MedExpress Urgent Care）。
-如果人不在匹茲堡、不方便出門、找不到In-Network Urgent Care，可以考慮In-Network Virtual Visits或Telemedicine Services。線上看診同樣可以提供處方簽，而且看診快速（通常排隊不需要超過半小時）、便宜。以Pitt的Graduate Student Plan為例，Virtual Urgent Care是$0 Copayment。
-選擇 In-Network Urgent Care 不論Pitt或CMU的保險，In-Network Urgent Care會比Out-of-Network負擔少很多，所以盡量尋找In-Network的診所。 是否清楚自己需要看的科別？
-如果只是想定期身體檢查或有不確定的病痛，可以選擇Primary care。Primary care provider (PCP)可以是主治醫生、住院醫生（Resident）、助理醫生（Physician assistant）或執業護理師（Nurse practitioner, NP），其專業包含家庭醫科或內科，擅長對各類疾病綜合診斷並評估是否需要轉診。此外，Pitt的保險約診PCP的Copayment都低於約診專科。</description></item><item><title>初級保健</title><link>https://tss-pittsburgh.github.io/docs/health/primary-care/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tss-pittsburgh.github.io/docs/health/primary-care/</guid><description>初級保健 # 最後更新日期2021.09.15 初級保健涵蓋常見疾病的預防、保健和治療的健康服務。初級保健提供者（Primary Care Provider, PCP）會與病患保持長期關係，並就一系列健康相關問題提供建議和治療。初級保健提供者包括醫生、註冊護士、執業護士和醫師助理，主要專攻家庭醫學或內科。
+出發前確認該醫療院所是否有營業。
+學校保健中心對學生提供免費的Urgent Care，因此只要是學校保健中心的營業時間，可優先考慮預約處理。
+如果學校保健中心沒開，則需要尋求鄰近的Urgent Care機構治療（例如UPMC Urgent Care Shadyside或MedExpress Urgent Care）。
+一般Urgent Care營業時間為9:00am - 9:00pm，匹茲堡地區僅UPMC Urgent Care Pleasant Hills有較長的營業時間7:00am - 11:00pm。
+如果在深夜仍需要緊急護理（例如嚴重割傷、刀傷），請直接前往急診。
+如果人不在匹茲堡、不方便出門、找不到In-Network Urgent Care、非物理性擦、割傷，可以考慮In-Network Virtual Visits或Telemedicine Services。線上看診同樣可以提供處方簽，而且看診快速（通常排隊不需要超過半小時）、便宜。以Pitt的Graduate Student Plan為例，使用UPMC AnywhereCare是$0 Copayment，如何使用詳情參考UPMC AnywhereCare章節。</description></item><item><title>初級保健</title><link>https://tss-pittsburgh.github.io/docs/health/primary-care/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tss-pittsburgh.github.io/docs/health/primary-care/</guid><description>初級保健 # 最後更新日期2021.09.15 初級保健涵蓋常見疾病的預防、保健和治療的健康服務。初級保健提供者（Primary Care Provider, PCP）會與病患保持長期關係，並就一系列健康相關問題提供建議和治療。初級保健提供者包括醫生、註冊護士、執業護士和醫師助理，主要專攻家庭醫學或內科。
 主要業務 # PCP通過提供定期檢查、預防性保健檢查和疫苗接種來幫助病患保持健康。
 了解病患、病患的生活方式和家族病史 血壓、血糖、膽固醇監測 篩查（Screening）：例如子宮頸癌篩查、乳房X光檢查、結腸鏡 抑鬱症評估 疫苗接種 補充處方籤 提供健康建議和轉介健康教育、預防諮詢服務 減重、戒菸、身體活動（Physical Activity）、營養、性病預防等 接受篩查檢測的時間除了可能是例行檢查，其頻率取決於年齡、性別、健康狀況、風險因素和檢測費用。詳細的預防性護理可參閱UPMC 2021 Preventive Services Reference Guide。
 一般來說，正常健康的成年人仍建議每年體檢一次，也就是所謂的年度健康訪問（Annual Wellness Visit）。
