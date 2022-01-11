@@ -1,9 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>🏥 醫療保健 on TSS-Pittsburgh 匹茲堡生存手冊</title><link>https://tss-pittsburgh.github.io/docs/health/</link><description>Recent content in 🏥 醫療保健 on TSS-Pittsburgh 匹茲堡生存手冊</description><generator>Hugo -- gohugo.io</generator><language>zh-tw</language><atom:link href="https://tss-pittsburgh.github.io/docs/health/index.xml" rel="self" type="application/rss+xml"/><item><title>就醫</title><link>https://tss-pittsburgh.github.io/docs/health/health-services/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tss-pittsburgh.github.io/docs/health/health-services/</guid><description>就醫 # 最後更新日期2021.09.20 美國不像台灣有如便利商店林立的醫療診所，一般看診都需要提前相當久的時間約診。雖然都有健康保險，但是如何獲得即時、有效、負擔較小的醫療服務仍是一大學問。
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>🏥 醫療保健 on TSS-Pittsburgh 匹茲堡生存手冊</title><link>https://tss-pittsburgh.github.io/docs/health/</link><description>Recent content in 🏥 醫療保健 on TSS-Pittsburgh 匹茲堡生存手冊</description><generator>Hugo -- gohugo.io</generator><language>zh-tw</language><atom:link href="https://tss-pittsburgh.github.io/docs/health/index.xml" rel="self" type="application/rss+xml"/><item><title>健康保險</title><link>https://tss-pittsburgh.github.io/docs/health/health-insurance/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tss-pittsburgh.github.io/docs/health/health-insurance/</guid><description>健康保險 # 最後更新日期2022.01.11 健康保險（Health Insurance）可分為醫療保險（Medical Plan）、牙科保險（Dental Plan）、眼科保險（Vision Plan）。學校健康保險資訊請參照投保健康保險章節。
+健康保險簡介 # 通用術語 # Premium：即保費，通常是月付。
+Deductible：保險公司開始賠付前，投保人須在投保週期內（通常1年內）自行支付的累積費用。
+Copayment：每次看病、治療時須支付的固定金額，類似台灣的掛號費。
+Coinsurance：投保人所須要支付醫療費用的百分比，類似台灣的部分負擔。
+Out-of-pocket Limit：投保人在投保一年內最多須支付的金額，支付的金額包括Deductible、Copayment、Coinsurance等。滿足後，保險公司會100%報銷所有醫療費用。
+Maximum Benefit：保險公司最高為投保人報銷的費用。依據險種不同，可以限定於單次、投保的一年內或終身。如果沒有上限，則為無。
+In-/Out-of-network：In-network是指跟保險有合作關係的醫療院所，報銷比例高。Out-of-network的醫療院所報銷低或甚至不報銷。
+Waiting Period：某些疾病或治療在投保一定時間後才會報銷。
+低Deductible、Copayment、Coinsurance、Out-of-pocket Maximum，高或無上限Maximum Benefit通常保費會較為昂貴。 依照不同看診、轉診模式，主要可分為4種類型：
+Health Maintenance Organization (HMO)：投保人須要指定家庭醫生，專科診察須要家庭醫師轉診，只報銷In-network的醫療服（緊急狀況除外），自由度低。
+Exclusive Provider Organization (EPO)：專科診察不須經由轉診，但仍只報銷In-network的醫療服務（緊急狀況除外），自由度比HMO稍高。
+Preferred Provider Organization (PPO)：專科診察不須經由轉診外，也報銷Out-of-network的醫療服務，但報銷費用會少In-network許多，自由度最高，保費一般較貴。
+Point of Service (POS)：投保人須要指定家庭醫生，專科診察須要家庭醫師轉診。與PPO相同，報銷Out-of-network的醫療服務。計畫介於HMO與PPO之間。</description></item><item><title>就醫</title><link>https://tss-pittsburgh.github.io/docs/health/health-services/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tss-pittsburgh.github.io/docs/health/health-services/</guid><description>就醫 # 最後更新日期2022.01.11 美國不像台灣有如便利商店林立的醫療診所，一般看診都需要提前相當久的時間約診。雖然都有健康保險，但是如何獲得即時、有效、負擔較小的醫療服務仍是一大學問。
 就醫評估 # 就醫前依序思考一下問題以選擇適當的醫療服務：
 是否有醫療保險？
 留學生強制購買醫療保險。強烈建議了解自己的保險權益，詳情參考投保健康保險章節。以下分析均已Pitt或CMU學校保險作為基礎。
 眼睛疾病、不適 眼睛疾病診斷、護理使用的是Medical Plan，而不是Vision Plan。 是否需要急診（Emergency Room）？
-與台灣不同，美國急診通常是有生命危險才會需要的醫療服務。如果是或不確定時，立即撥打911，接線人員會判斷是否需要提供救護車等醫療支援。
+與台灣不同，美國急診通常是有生命危險才會需要的醫療服務。在一般常識下合理預期不立即就醫會導致嚴重危害生命、身體機能嚴重損害、器官等功能損害。例如：事故造成的身體傷害（刀傷、槍傷、車禍），嚴重的急性症狀或劇烈疼痛、突然的醫療狀況（呼吸困難、胸部持續疼痛或壓力、嘴唇或臉發青）。如果是或不確定時，立即撥打911，接線人員會判斷是否需要提供救護車等醫療支援。
 急診不需要是In-Network 當需要急救時，請立即前往/送往最近的醫院急診室。無論是否在In-Network或Out-of-Network的急診（Emergency Room Services），Pitt和CMU學校保險的Copayment均一樣，且Coverage均是100%。
 救護車 大多數情況下，Pitt和CMU的學校保險對救護車都是100% Coverage，僅CMU保險在非緊急的Out-of-Network需要部分負擔。如果不確定是否屬於緊急狀況，撥打911可協助判斷。
 是否需要緊急護理（Urgent Care）？
@@ -13,12 +26,12 @@
 如果學校保健中心沒開，則需要尋求鄰近的Urgent Care機構治療（例如UPMC Urgent Care Shadyside或MedExpress Urgent Care）。
 一般Urgent Care營業時間為9:00am - 9:00pm，匹茲堡地區僅UPMC Urgent Care Pleasant Hills有較長的營業時間7:00am - 11:00pm。
 如果在深夜仍需要緊急護理（例如嚴重割傷、刀傷），請直接前往急診。
-如果人不在匹茲堡、不方便出門、找不到In-Network Urgent Care、非物理性擦、割傷，可以考慮In-Network Virtual Visits或Telemedicine Services。線上看診同樣可以提供處方簽，而且看診快速（通常排隊不需要超過半小時）、便宜。以Pitt的Graduate Student Plan為例，使用UPMC AnywhereCare是$0 Copayment，如何使用詳情參考UPMC AnywhereCare章節。</description></item><item><title>初級保健</title><link>https://tss-pittsburgh.github.io/docs/health/primary-care/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tss-pittsburgh.github.io/docs/health/primary-care/</guid><description>初級保健 # 最後更新日期2021.09.15 初級保健涵蓋常見疾病的預防、保健和治療的健康服務。初級保健提供者（Primary Care Provider, PCP）會與病患保持長期關係，並就一系列健康相關問題提供建議和治療。初級保健提供者包括醫生、註冊護士、執業護士和醫師助理，主要專攻家庭醫學或內科。
+如果人不在匹茲堡、不方便出門、找不到In-Network Urgent Care、非物理性擦、割傷，可以考慮In-Network Virtual Visits或Telemedicine Services。線上看診同樣可以提供處方簽，而且看診快速（通常排隊不需要超過半小時）、便宜。以Pitt的Graduate Student Plan為例，使用UPMC AnywhereCare是$0 Copayment，如何使用詳情參考UPMC AnywhereCare章節。</description></item><item><title>初級保健</title><link>https://tss-pittsburgh.github.io/docs/health/primary-care/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tss-pittsburgh.github.io/docs/health/primary-care/</guid><description>初級保健 # 最後更新日期2022.01.11 初級保健涵蓋常見疾病的預防、保健和治療的健康服務。初級保健提供者（Primary Care Provider, PCP）會與病患保持長期關係，並就一系列健康相關問題提供建議和治療。初級保健提供者包括醫生、註冊護士、執業護士和醫師助理，主要專攻家庭醫學或內科。
 主要業務 # PCP通過提供定期檢查、預防性保健檢查和疫苗接種來幫助病患保持健康。
-了解病患、病患的生活方式和家族病史 血壓、血糖、膽固醇監測 篩查（Screening）：例如子宮頸癌篩查、乳房X光檢查、結腸鏡 抑鬱症評估 疫苗接種 補充處方籤 提供健康建議和轉介健康教育、預防諮詢服務 減重、戒菸、身體活動（Physical Activity）、營養、性病預防等 接受篩查檢測的時間除了可能是例行檢查，其頻率取決於年齡、性別、健康狀況、風險因素和檢測費用。詳細的預防性護理可參閱UPMC 2021 Preventive Services Reference Guide。
+了解病患、病患的生活方式和家族病史 血壓、血糖、膽固醇監測 篩查（Screening）：例如子宮頸癌篩查、乳房X光檢查、結腸鏡 抑鬱症評估 疫苗接種 補充處方籤 提供健康建議和轉介健康教育、預防諮詢服務 減重、戒菸、身體活動（Physical Activity）、營養、性病預防等 接受篩查檢測的時間除了可能是例行檢查，其頻率取決於年齡、性別、健康狀況、風險因素和檢測費用。詳細的預防性護理可參閱UPMC 2022 Preventive Services Reference Guide和Highmark 2021 Preventive Schedule。
 一般來說，正常健康的成年人仍建議每年體檢一次，也就是所謂的年度健康訪問（Annual Wellness Visit）。
 第一次看診 除了常規的體重、血壓量測，首次看診會詢問家族病史、抽血、補打疫苗。抽血結果沒太大問題的話，大約3~4年會再重新檢測。
-費用 Pitt和CMU學生保險對於預防性護理在In-Network都是免費的。此外，Pitt學生保險對於PCP的首次與年度回診是不收Copay的（CMU不確定）。
+費用 Pitt和CMU學生保險對於預防性護理在In-Network都是免費的。此外，Pitt、CMU學生保險對於PCP的首次與年度回診是不收取Copay。
 多問問題 如果有什麼不清楚的健康問題或不清楚要找哪一個專科，都可以向PCP諮詢。
 地點 # CMU學生保險是Highmark，可透過3 easy ways to find a doctor網站尋找。
 Pitt學生保險是UPMC Health Plan。UPMC的初級保健辦公室涵蓋整個大匹茲堡，光Central區域就有25個醫院診所提供服務。大匹茲堡區域範圍涵蓋賓州西部和俄亥俄州東部。尋找PCP可以透過Find a Doctor or Provider，也可以參考 UPMC Primary Care Locations Guide 2020。
@@ -52,15 +65,13 @@ UPMC AnywhereCare # UPMC AnywhereCare提供虛擬緊急護理（Virtual Urgent C
 流程：可以從Psychology Today與Thriving Campus尋找諮商師。諮商師的談話方式、風格皆有不同，因此建議可以多找幾個會談以尋找適合自己的諮商師 如果覺得初期會談發現與諮商師溝通效果不佳，可以更換諮商師。建立長期諮商關係後，如有需求會提供緊急約診的服務。
 費用：依保險不同。每次會談Pitt Graduate Student Medical Plan須負擔$5 copayment，CMU Aetna保險完全免費，兩者皆無使用次數限制。
 時間：一次諮商診療約50分鐘。通常一個星期1次，視情況需求，一個星期2~3次亦可。
-轉診：可轉移診療紀錄至其他諮商師。如果僅是在選諮商師階段，通常不需要轉移診療紀錄。</description></item><item><title>疫情生活指南</title><link>https://tss-pittsburgh.github.io/docs/health/covid/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tss-pittsburgh.github.io/docs/health/covid/</guid><description>疫情生活指南 # 最後更新日期2021.06.19 2019年爆發新型冠狀病毒（COVID-19），各國、各州間均有不同的旅行禁令、檢疫要求，最新要求務必參照官方指示。
-入境美國與賓州旅行要求 # 美國目前對台灣沒有旅行禁令。
-抵美前14天若曾至（包含轉機或過境）中國大陸（除香港、澳門）、申根地區、英國、印度等外籍旅客禁止入境，詳情參閱美國CDC網站。
-美國公民、美國公民、永久居民以及其配偶、未成年眷屬不在此限，詳情參閱總統令。 自2021.08.01，F1、M1、J1簽證不在此限（並未包含眷屬），詳情參閱總統令。 自2021.01.26起登機前須檢具航班起飛前3日內核酸增幅檢測或抗源檢測報告（紙本或電子影本）或3個月內已感染且康復之證明文件，詳情參照美國CDC網站與 陰性證明章節。
-自2021.03.01起，賓州政府取消州外旅遊限制、隔離要求。
-自2021.05.19起，已完全接種疫苗的人在美國境內旅遊不需要額外篩檢或隔離。
-COVID-19疫苗接種 # 目前全美不論有沒有保險，任何人都可以「免費」施打COVID-19疫苗。目前美國FDA緊急授權的疫苗有Pfizer（輝瑞，2劑，每劑間隔至少21天，12歲以上）、 Moderna（莫德納，2劑，每劑間隔至少28天，18歲以上)、Johnson &amp;amp; Johnson（嬌生，1劑，18歲以上）。
+轉診：可轉移診療紀錄至其他諮商師。如果僅是在選諮商師階段，通常不需要轉移診療紀錄。</description></item><item><title>COVID-19篩檢</title><link>https://tss-pittsburgh.github.io/docs/health/covid-testing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tss-pittsburgh.github.io/docs/health/covid-testing/</guid><description>COVID-19篩檢 # 最後更新日期2022.01.11 美國檢驗機構 # 大多數檢驗機構無論是否有保險均免費，沒保險的話篩檢費用是由聯邦政府吸收。如果有保險，需要提供保險資料，未填則仍會被查詢保險紀錄。
+以下COVID-19檢驗機構均提供核酸檢驗，部分檢驗機構亦提供抗原檢驗：
+CMU Tartan Testing：CMU教職員生免費，每週可檢驗1次。校內檢驗站自行使用檢驗包。 Curative：以廂型車作為檢查站。結果約在1~2天出爐。 Walgreen: 必須開車經Drive-thru車道，並在指導下自行使用檢驗包。Diagnostic Lab Test (PCR)約48小時內出爐；Rapid Diagnostic Test (ID NOW)約24小時內，通常在幾小時內出爐；Rapid Antigen Test (BinaxNOW)約1小時內出爐。 CVS：必須開車經Drive-thru車道，並在指導下自行使用檢驗包。Lab Test (PCR/ NAAT)結果約在1~2天出爐;Rapid-result (PCR)約幾小時內出爐;Rapid-result (antigen)約幾小時內出爐。 Rite Aid：必須開車經Drive-thru車道，並在指導下自行使用檢驗包。結果約在2~5天出爐。 Pixel by LabCorp：檢驗包寄至住處，自行採樣由FedEx寄回。 MedExpress：有保險免費，沒有保險的話會被收取$119~$229費用。結果約在2~3天出爐。 Drive-thru車道 任何Drive-thru車道檢驗均不允許步行參與，可開車、騎乘摩托車或腳踏車。
+Walgreen Rapid Diagnostic Test Walgreen的Rapid Diagnostic Test (ID NOW)屬於NAAT檢驗，可用於返台，但據點、名額較少，需要提早預約。
+返美COVID-19檢驗 # 自2021.12.06起，前往美國班機登機前須檢具航班起飛前1日內核酸增幅檢驗或抗源檢驗報告（紙本或電子影本）或90天內已感染且康復之證明文件，詳情參照美國CDC網站。
+台灣機構檢驗 # 詳情參照美國CDC網站。
+提供PRC採檢醫院參閱附件表四。選擇使用PCR檢驗，務必選擇「急件」，並確認航班是否趕得及。 部分醫院亦提供抗原快篩（約1,000~2,500台幣）。 自我檢測包 # 美國允許使用自我檢測包（self-test或home test）作為返美檢驗證明，其主要規定包含FDA緊急授權、檢測過程中必須以視訊等方式監督等。
+使用Self-test作為檢驗證明規定 The test must be a SARS-CoV-2 viral test (nucleic acid amplification test [NAAT] or antigen test) with Emergency Use Authorization (EUA) from the U.</description></item><item><title>COVID-19疫苗接種</title><link>https://tss-pittsburgh.github.io/docs/health/covid-vaccine/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tss-pittsburgh.github.io/docs/health/covid-vaccine/</guid><description>COVID-19疫苗接種 # 最後更新日期2022.01.11 目前全美不論有沒有保險，任何人都可以「免費」施打COVID-19疫苗。目前美國FDA緊急授權的疫苗有Pfizer（輝瑞，2劑，每劑間隔至少21天，12歲以上）、 Moderna（莫德納，2劑，每劑間隔至少28天，18歲以上)、Johnson &amp;amp; Johnson（嬌生，1劑，18歲以上）。
 如何預約：線上預約為主，且方便。電話預約亦可。少數提供Walk-in。施打地點可能是醫院、藥局、體育中心或是賣場等。預約時就會告知這個地點會提供什麼疫苗牌子，基本上只要有提供都可以自由選擇。
-PittCoVax：可以Walk-in，不限Pitt學生。 CDC VaccineFinder Allegheny County Vaccine Registration Rite Aid Giant Eagle Pharmancy（可以Walk-in） CVS（可以Walk-in） Costco 所需文件：Photo ID（如護照或美國駕照）、保險卡（如果有保險就提供，沒有也非必要）、COVID-19疫苗卡（施打第二劑用）
-返台核酸檢測 # 啟程地時間自2020.12.01起，入境台灣或於台灣機場轉機之旅客登機前均應檢附「表訂登機時間前3日（工作日）內COVID-19核酸檢驗陰性報告（紙本或電子影本），詳情參閱衛服部常見問答Q49或駐紐約辦事處網站。
-台灣定義的3日內 「3日內」檢驗報告日期是以「報告日」及「工作日」計算，排除當地政府之國定假日，不含搭飛機日。 檢驗方法 # 檢驗報告需採分子生物學核酸檢測，包含
-PCR、Real-Time PCR、RT-PCR、RT-qPCR NAAT（Nucleic acid Amplification Test）、NAT（Nucleic acid Test） LAMP（Loop-Mediated isothermal Amplification）、RT-LAMP、 COVID-19 RNA test、SARS-CoV-2 RNA test Molecular Diagnostics 惟須注意，血清免疫學檢驗抗原(Antigen Test)或抗體（IgG或IgM）不符合檢驗要求。</description></item></channel></rss>
+PittCoVax：可以Walk-in，不限Pitt學生。 CDC VaccineFinder Allegheny County Vaccine Registration Rite Aid Giant Eagle Pharmancy（可以Walk-in） CVS（可以Walk-in） Costco 所需文件：Photo ID（如護照或美國駕照）、保險卡（如果有保險就提供，沒有也非必要）、COVID-19疫苗卡（施打第二劑用）</description></item></channel></rss>
