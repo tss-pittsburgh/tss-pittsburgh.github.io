@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>🏥 醫療保健 on TSS-Pittsburgh 匹茲堡生存手冊</title><link>https://tss-pittsburgh.github.io/docs/health/</link><description>Recent content in 🏥 醫療保健 on TSS-Pittsburgh 匹茲堡生存手冊</description><generator>Hugo -- gohugo.io</generator><language>zh-tw</language><atom:link href="https://tss-pittsburgh.github.io/docs/health/index.xml" rel="self" type="application/rss+xml"/><item><title>健康保險</title><link>https://tss-pittsburgh.github.io/docs/health/health-insurance/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tss-pittsburgh.github.io/docs/health/health-insurance/</guid><description>健康保險 # 最後更新日期2022.01.11 健康保險（Health Insurance）可分為醫療保險（Medical Plan）、牙科保險（Dental Plan）、眼科保險（Vision Plan）。學校健康保險資訊請參照投保健康保險章節。
-健康保險簡介 # 通用術語 # Premium：即保費，通常是月付。
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>🏥 醫療保健 on TSS-Pittsburgh 匹茲堡生存手冊</title><link>https://tss-pittsburgh.github.io/docs/health/</link><description>Recent content in 🏥 醫療保健 on TSS-Pittsburgh 匹茲堡生存手冊</description><generator>Hugo -- gohugo.io</generator><language>zh-tw</language><atom:link href="https://tss-pittsburgh.github.io/docs/health/index.xml" rel="self" type="application/rss+xml"/><item><title>健康保險攻略</title><link>https://tss-pittsburgh.github.io/docs/health/health-insurance/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tss-pittsburgh.github.io/docs/health/health-insurance/</guid><description>健康保險攻略 # 最後更新日期2022.01.11 健康保險（Health Insurance）可分為醫療保險（Medical Plan）、牙科保險（Dental Plan）、眼科保險（Vision Plan）。學校健康保險資訊請參照投保健康保險章節。
+通用術語 # Premium：即保費，通常是月付。
 Deductible：保險公司開始賠付前，投保人須在投保週期內（通常1年內）自行支付的累積費用。
 Copayment：每次看病、治療時須支付的固定金額，類似台灣的掛號費。
 Coinsurance：投保人所須要支付醫療費用的百分比，類似台灣的部分負擔。
-Out-of-pocket Limit：投保人在投保一年內最多須支付的金額，支付的金額包括Deductible、Copayment、Coinsurance等。滿足後，保險公司會100%報銷所有醫療費用。
+Cost Sharing:Deductible、Copayment、Coinsurance合計。
+Out-of-pocket Limit：投保人在保週期內最多須支付的Cost Sharing，不含保險未涵蓋或拒絕支付的醫療費用。支付超過此金額後保險公司會100%報銷所有有涵蓋的醫療費用。
 Maximum Benefit：保險公司最高為投保人報銷的費用。依據險種不同，可以限定於單次、投保的一年內或終身。如果沒有上限，則為無。
+保費關聯 Low Deductible、Low Copayment、Low Coinsurance、Low Out-of-pocket Maximum與High/Unlimited Maximum Benefit通常保費會較為昂貴。 Coverage：保險所涵蓋、會報銷的醫療項目與服務。
 In-/Out-of-network：In-network是指跟保險有合作關係的醫療院所，報銷比例高。Out-of-network的醫療院所報銷低或甚至不報銷。
 Waiting Period：某些疾病或治療在投保一定時間後才會報銷。
-低Deductible、Copayment、Coinsurance、Out-of-pocket Maximum，高或無上限Maximum Benefit通常保費會較為昂貴。 依照不同看診、轉診模式，主要可分為4種類型：
+依照不同看診、轉診模式，主要可分為4種類型：
 Health Maintenance Organization (HMO)：投保人須要指定家庭醫生，專科診察須要家庭醫師轉診，只報銷In-network的醫療服（緊急狀況除外），自由度低。
-Exclusive Provider Organization (EPO)：專科診察不須經由轉診，但仍只報銷In-network的醫療服務（緊急狀況除外），自由度比HMO稍高。
-Preferred Provider Organization (PPO)：專科診察不須經由轉診外，也報銷Out-of-network的醫療服務，但報銷費用會少In-network許多，自由度最高，保費一般較貴。
-Point of Service (POS)：投保人須要指定家庭醫生，專科診察須要家庭醫師轉診。與PPO相同，報銷Out-of-network的醫療服務。計畫介於HMO與PPO之間。</description></item><item><title>就醫</title><link>https://tss-pittsburgh.github.io/docs/health/health-services/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tss-pittsburgh.github.io/docs/health/health-services/</guid><description>就醫 # 最後更新日期2022.01.11 美國不像台灣有如便利商店林立的醫療診所，一般看診都需要提前相當久的時間約診。雖然都有健康保險，但是如何獲得即時、有效、負擔較小的醫療服務仍是一大學問。
+Exclusive Provider Organization (EPO)：專科診察不須經由轉診，但仍只報銷In-network的醫療服務（緊急狀況除外），自由度比HMO稍高。</description></item><item><title>就醫</title><link>https://tss-pittsburgh.github.io/docs/health/health-services/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tss-pittsburgh.github.io/docs/health/health-services/</guid><description>就醫 # 最後更新日期2022.01.11 美國不像台灣有如便利商店林立的醫療診所，一般看診都需要提前相當久的時間約診。雖然都有健康保險，但是如何獲得即時、有效、負擔較小的醫療服務仍是一大學問。
 就醫評估 # 就醫前依序思考一下問題以選擇適當的醫療服務：
 是否有醫療保險？
 留學生強制購買醫療保險。強烈建議了解自己的保險權益，詳情參考投保健康保險章節。以下分析均已Pitt或CMU學校保險作為基礎。
@@ -28,7 +28,7 @@ Point of Service (POS)：投保人須要指定家庭醫生，專科診察須要�
 如果在深夜仍需要緊急護理（例如嚴重割傷、刀傷），請直接前往急診。
 如果人不在匹茲堡、不方便出門、找不到In-Network Urgent Care、非物理性擦、割傷，可以考慮In-Network Virtual Visits或Telemedicine Services。線上看診同樣可以提供處方簽，而且看診快速（通常排隊不需要超過半小時）、便宜。以Pitt的Graduate Student Plan為例，使用UPMC AnywhereCare是$0 Copayment，如何使用詳情參考UPMC AnywhereCare章節。</description></item><item><title>初級保健</title><link>https://tss-pittsburgh.github.io/docs/health/primary-care/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tss-pittsburgh.github.io/docs/health/primary-care/</guid><description>初級保健 # 最後更新日期2022.01.11 初級保健涵蓋常見疾病的預防、保健和治療的健康服務。初級保健提供者（Primary Care Provider, PCP）會與病患保持長期關係，並就一系列健康相關問題提供建議和治療。初級保健提供者包括醫生、註冊護士、執業護士和醫師助理，主要專攻家庭醫學或內科。
 主要業務 # PCP通過提供定期檢查、預防性保健檢查和疫苗接種來幫助病患保持健康。
-了解病患、病患的生活方式和家族病史 血壓、血糖、膽固醇監測 篩查（Screening）：例如子宮頸癌篩查、乳房X光檢查、結腸鏡 抑鬱症評估 疫苗接種 補充處方籤 提供健康建議和轉介健康教育、預防諮詢服務 減重、戒菸、身體活動（Physical Activity）、營養、性病預防等 接受篩查檢測的時間除了可能是例行檢查，其頻率取決於年齡、性別、健康狀況、風險因素和檢測費用。詳細的預防性護理可參閱UPMC 2022 Preventive Services Reference Guide和Highmark 2021 Preventive Schedule。
+了解病患、病患的生活方式和家族病史 血壓、血糖、膽固醇監測 篩查（Screening）：例如子宮頸癌篩查、乳房X光檢查、結腸鏡 抑鬱症評估 疫苗接種 補充處方籤 提供健康建議和轉介健康教育、預防諮詢服務 減重、戒菸、身體活動（Physical Activity）、營養、性病預防等 接受篩查檢測的時間除了可能是例行檢查，其頻率取決於年齡、性別、健康狀況、風險因素和檢測費用。Pitt和CMU詳細的預防性護理可參閱UPMC 2022 Preventive Services Reference Guide和Highmark 2021 Preventive Schedule，一般保險需要涵蓋的內容可參照HealthCare.gov。
 一般來說，正常健康的成年人仍建議每年體檢一次，也就是所謂的年度健康訪問（Annual Wellness Visit）。
 第一次看診 除了常規的體重、血壓量測，首次看診會詢問家族病史、抽血、補打疫苗。抽血結果沒太大問題的話，大約3~4年會再重新檢測。
 費用 Pitt和CMU學生保險對於預防性護理在In-Network都是免費的。此外，Pitt、CMU學生保險對於PCP的首次與年度回診是不收取Copay。
@@ -72,6 +72,10 @@ Walgreen Rapid Diagnostic Test Walgreen的Rapid Diagnostic Test (ID NOW)屬於NA
 返美COVID-19檢驗 # 自2021.12.06起，前往美國班機登機前須檢具航班起飛前1日內核酸增幅檢驗或抗源檢驗報告（紙本或電子影本）或90天內已感染且康復之證明文件，詳情參照美國CDC網站。
 台灣機構檢驗 # 詳情參照美國CDC網站。
 提供PRC採檢醫院參閱附件表四。選擇使用PCR檢驗，務必選擇「急件」，並確認航班是否趕得及。 部分醫院亦提供抗原快篩（約1,000~2,500台幣）。 自我檢測包 # 美國允許使用自我檢測包（self-test或home test）作為返美檢驗證明，其主要規定包含FDA緊急授權、檢測過程中必須以視訊等方式監督等。
-使用Self-test作為檢驗證明規定 The test must be a SARS-CoV-2 viral test (nucleic acid amplification test [NAAT] or antigen test) with Emergency Use Authorization (EUA) from the U.</description></item><item><title>COVID-19疫苗接種</title><link>https://tss-pittsburgh.github.io/docs/health/covid-vaccine/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tss-pittsburgh.github.io/docs/health/covid-vaccine/</guid><description>COVID-19疫苗接種 # 最後更新日期2022.01.11 目前全美不論有沒有保險，任何人都可以「免費」施打COVID-19疫苗。目前美國FDA緊急授權的疫苗有Pfizer（輝瑞，2劑，每劑間隔至少21天，12歲以上）、 Moderna（莫德納，2劑，每劑間隔至少28天，18歲以上)、Johnson &amp;amp; Johnson（嬌生，1劑，18歲以上）。
-如何預約：線上預約為主，且方便。電話預約亦可。少數提供Walk-in。施打地點可能是醫院、藥局、體育中心或是賣場等。預約時就會告知這個地點會提供什麼疫苗牌子，基本上只要有提供都可以自由選擇。
-PittCoVax：可以Walk-in，不限Pitt學生。 CDC VaccineFinder Allegheny County Vaccine Registration Rite Aid Giant Eagle Pharmancy（可以Walk-in） CVS（可以Walk-in） Costco 所需文件：Photo ID（如護照或美國駕照）、保險卡（如果有保險就提供，沒有也非必要）、COVID-19疫苗卡（施打第二劑用）</description></item></channel></rss>
+使用Self-test作為檢驗證明規定 The test must be a SARS-CoV-2 viral test (nucleic acid amplification test [NAAT] or antigen test) with Emergency Use Authorization (EUA) from the U.</description></item><item><title>COVID-19疫苗接種</title><link>https://tss-pittsburgh.github.io/docs/health/covid-vaccine/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tss-pittsburgh.github.io/docs/health/covid-vaccine/</guid><description>COVID-19疫苗接種 # 最後更新日期2022.01.11 目前全美不論有沒有保險，任何人都可以「免費」施打COVID-19疫苗。
+美國核准疫苗 # 目前美國FDA緊急授權的疫苗：
+Pfizer（輝瑞，2劑，每劑間隔至少21天，12歲以上） Moderna（莫德納，2劑，每劑間隔至少28天，18歲以上) Janssen（嬌生，1劑，18歲以上） 施打場所 # 如何預約：線上預約為主，且方便。電話預約亦可。少數提供Walk-in。施打地點可能是醫院、藥局、體育中心或是賣場等。預約時就會告知這個地點會提供什麼疫苗牌子，基本上只要有提供都可以自由選擇。
+PittCoVax：可以Walk-in，不限Pitt學生。 CDC VaccineFinder Allegheny County Vaccine Registration Rite Aid Giant Eagle Pharmancy（可以Walk-in） CVS（可以Walk-in） Costco 所需文件：Photo ID（如護照或美國駕照）、保險卡（如果有保險就提供，沒有也非必要）、COVID-19疫苗卡（施打第二劑用）
+加強劑 # 美國目前僅允許的Pfizer或Moderna作為加強劑，可任意選擇，除了低於18歲的兒童仍僅能施打Pfizer。原先施打Pfizer或Moderna的人須間隔5個月後可施打加強劑，原本施打Janssen的人僅須間隔2個月。
+原圖摘錄自美國CDC官網 已在美國外接種疫苗 如果在美國境外完成了Pfizer、Moderna或Janssen疫苗的人，可應遵循上述指示獲取加強劑。 如果在美國外施打WHO緊急授權完整疫苗或混合施打WHO緊急授權與FDA授權的疫苗，可以在施打所有推薦劑量後的6個月施打Pfizer或Moderna作為加強劑。
+加強劑劑量 加強劑成分完全相同，但Moderna劑量為一半。</description></item></channel></rss>
