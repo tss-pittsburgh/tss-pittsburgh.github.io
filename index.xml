@@ -208,21 +208,15 @@ SSN或SSN denial letter，可參照申請SSN章節。 最新出入境I-94紀錄�
 美國匯至台灣 # 匯款流程大致與台灣匯款到美國相同，大多也需要親自臨櫃。因此未來離開美國想關閉銀行帳戶時，建議先行操作。
 花旗全球速匯 # 台美兩邊均有花旗銀行帳戶，即時、長年無手續費、可以網路操作。匹茲堡無花旗銀行，須至鄰近的紐約、芝加哥或華盛頓特區開戶。
 台灣速匯至美國 # 需要先綁定美國帳戶。第一次需要臨櫃台灣花旗綁定美國帳戶，第二次後可以書面綁定、變更美國帳戶。因此如果尚未抵達美國，可以考慮綁定親友的美國帳戶，等到美國開戶後，再以書面方式綁定自己的美國帳戶。
-美國速匯至台灣 # 網路輸入台灣花旗銀行帳戶資訊即可以匯款。</description></item><item><title>美國境內轉帳</title><link>https://tss-pittsburgh.github.io/docs/finance/domestic-transfer/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tss-pittsburgh.github.io/docs/finance/domestic-transfer/</guid><description>美國境內轉帳 # 最後更新日期2021.05.24 美國境內轉帳系統與台灣相差甚大，具有不同的轉帳方式，到帳時間、手續費、轉帳金額均有不同的規定。
+美國速匯至台灣 # 網路輸入台灣花旗銀行帳戶資訊即可以匯款。</description></item><item><title>美國境內轉帳</title><link>https://tss-pittsburgh.github.io/docs/finance/domestic-transfer/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tss-pittsburgh.github.io/docs/finance/domestic-transfer/</guid><description>美國境內轉帳 # 最後更新日期2022.03.30 美國境內轉帳系統與台灣相差甚大，具有不同的轉帳方式，到帳時間、手續費、轉帳金額均有不同的規定。
 ACH Transfer # ACH是美國一個低成本的轉帳系統，Transfer在銀行網頁或手機App上被簡稱為Transfer或Money Transfer。這類授權轉帳都會需要提供Routing Number和Account Number。ACH主要有四個用途：
-同一個人的不同銀行帳戶之間轉帳。 部分銀行支持同一間銀行不同人之間轉帳（少用）。 C2P：如薪資發放、退稅等。 P2C：如學費、房租繳納等。 優點：通常是免費的，適合用於同一人帳戶之間的資金調動。 缺點：轉帳通常需要2~3個工作日。轉出金額有每日或每月上限。
-帳戶間綁定操作 # 第一次個人轉帳前須要認證帳戶是自己並綁定，類似台灣的約定帳戶。帳戶綁定方式有兩種，均可在網路上完成：
-直接登入該銀行帳戶。 銀行會存些暫時性金額，需到綁定帳戶確認後填寫出該數字。 ACH綁定是單向的， 在A銀行綁定B銀行後，可以從A銀行推錢（ACH Push）至B銀行或從A銀行發起從B銀行拉錢（ACH Pull）。然而，並不能在B銀行對A銀行發起推錢或拉錢，須要在B銀行綁定A銀行才能進行。
-Wire Transfer # 類似於台灣的銀行轉帳，通常用於轉帳金額較大或時間急迫。需要收款人的姓名、地址、Routing Number和Account Number。
-優點：當天到帳、可跨行、接受較大額轉帳。 缺點：匯款方與收款方都有手續費（$15~$20）。
-Zelle # Zelle是銀行間的即時轉帳系統，只須知道收款人的手機號碼或Email即可以轉帳。如果開戶銀行已經是Zelle的合作夥伴（大銀行通常都是），銀行App通常已經內建Zelle。
-優點：即時到帳、可跨行、無手續費、操作方便。 缺點：每日或每月轉出金額上限（例如：PNC $1,000/日、$5,000/月；Chase $2,000/日、$16,000/月），且收款方需要有Zelle。目前只和美國本土銀行有合作。
-第三方轉帳 # 付款是投過帳戶餘額或綁定的個人金融帳戶（支票帳戶、簽帳金融卡及信用卡），收款方則是即時存入系統帳戶裡，帳戶餘額需要自行轉入綁定的銀行帳戶。由於是即時轉帳，一旦提交是不可以撤回，交易平台並不會為付款方提供保護，因此需要注意匯款金額與對象。
-PayPal # 老牌的第三方轉帳軟體，兼具網路購物付款渠道。轉帳方面，透過Email尋找轉錢對象，使用簽帳金融卡和信用卡轉帳均需要手續費。網路購物方面，買方的付款方式均無手續費，且具有保護信用卡信息的功能。經姓名認證後，單筆支付上限為$10,000，總額沒有限制。支援25種貨幣。
-Venmo # 具社交元素的新興轉帳軟體，申辦僅須要姓名、Email、美國電話號碼即可。透過帳號或QR-code找到轉錢對象，亦可以申請好友（非必須）。除了信用卡轉帳是需要手續費外，其餘方式均為免費。每周有轉出金額上限，未驗證帳號為$299.99、驗證帳號為$2,999.99。僅支援美元。
-Venmo申請連結Venmo申請連結Venmo申請連結Venmo申請連結Venmo申請連結
-如果想感謝本手冊對你的幫助，可使用「Venmo申請連結」申請帳號，隨機鼓勵我們編輯團隊的其中一員（重新整理可以刷新連結）。
-票據 # Personal Check、Money Order、Cashier’s Check是美國常見的票據，三者用途、簽發方式不同。</description></item><item><title>信用卡</title><link>https://tss-pittsburgh.github.io/docs/finance/credit-card/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tss-pittsburgh.github.io/docs/finance/credit-card/</guid><description>信用卡 # 最後更新日期2021.08.17 信用卡使用基本守則：僅當成是支付工具，而非借款工具，以不延遲繳款、不預借現金、不分期付款為原則。本節主要簡略涉及使用信用卡優勢與福利，並介紹累積信用紀錄後的熱門信用卡。零信用紀錄信用卡申請請參照申辦信用卡章節。
+同一個人不同銀行帳戶的資金轉移。 部分銀行支持同一間銀行不同人之間轉帳。 C2P：如薪資發放、退稅等。 P2C：如學費、房租繳納等。 優點：通常是免費的，適合用於同一人帳戶之間的資金調動。 缺點：轉帳通常需要2~3個工作日。轉出金額有每日或每月上限。
+Direct Deposit 許多銀⾏會要求設定Direct Deposit來滿足開⼾獎勵或免除管理費，通常須透過公司透過ACH發放薪資滿足。 Routing Number (ACH) # 由9位數代碼構成，會根據開⼾分⾏的地區有所不同，銀⾏App/網⾴上可能標示為：
+Routing Number (Chase) Paper &amp;amp; Electronic Routing Number (BoA) ACH Routing Number Direct Deposit 可以在App、線上或支票左下角找到該號碼。
+使用ACH資金轉移 # 第一次個人轉帳前須要認證帳戶是自己並綁定，類似台灣的約定帳戶。帳戶綁定方式有兩種，均可在網路上完成：
+直接登入該銀行帳戶。 銀行會存些暫時性金額，需到綁定帳戶確認後填寫出該數字。 ACH綁定是單向的，在A銀行綁定B銀行後，可以從A銀行推錢（ACH Push）至B銀行或從A銀行發起從B銀行拉錢（ACH Pull）。然而，並不能在B銀行對A銀行發起推錢或拉錢，須要在B銀行綁定A銀行才能進行。
+Wire Transfer # 類似於台灣的銀行轉帳，通常用於轉帳金額較大或時間急迫。需要收款人的姓名、分行地址、Routing Number和Account Number。
+優點：當天到帳、可跨行、接受較大額轉帳。 缺點：匯款方與收款方都有手續費（$15~$20）。</description></item><item><title>信用卡</title><link>https://tss-pittsburgh.github.io/docs/finance/credit-card/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tss-pittsburgh.github.io/docs/finance/credit-card/</guid><description>信用卡 # 最後更新日期2021.08.17 信用卡使用基本守則：僅當成是支付工具，而非借款工具，以不延遲繳款、不預借現金、不分期付款為原則。本節主要簡略涉及使用信用卡優勢與福利，並介紹累積信用紀錄後的熱門信用卡。零信用紀錄信用卡申請請參照申辦信用卡章節。
 信用卡優勢 # 信用卡（Credit Card）有許多簽帳金融卡（Debit Card）沒有的優勢。
 A. 安全性 # 保障： 相較Debit Card，Credit Card美國法律對於盜刷（Unauthorized Purchases）有較全面保障。
 Credit Card Debit Card 盜刷責任（Liability limit） 盜刷責任上限為$50。基於商業考量，銀行大多直接免除盜刷責任，即Zero liability。 2天內的盜刷責任上限為$50、2~60天內為$500、60天以上全責。 盜刷調查 在調查期間，持卡人無須負擔盜刷金額。 在調查期間，持卡人盜刷金額凍結，有資金週轉等風險。 爭議款（Dispute） 交易遇到交易糾紛時（例如：物品未寄達、收款金額錯誤等）， 有權向銀行提出爭議款（通常透過網路提交即可）。 銀行對於Debit Card爭議款處理流程通常較為繁瑣與冗長。 交易方式 交易時不需輸入PIN碼，快速、方便。 需要輸入PIN碼， 如果PIN碼遺失所造成的盜刷，銀行可拒絕理賠。 B. 消費回饋 # 開卡獎勵：申請信用卡大多提供獎勵，依卡種而有所不同，其價值約$0~$1,200。
